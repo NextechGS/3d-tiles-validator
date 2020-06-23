@@ -13,7 +13,7 @@ To generate new 3D tilesets, see [Cesium ion](https://cesium.com/ion/).
 
 ## Contributions
 
-Pull requests are appreciated!  Please use the same [Contributor License Agreement (CLA)](https://github.com/NextechGS/NextechJS/blob/master/CONTRIBUTING.md) and [Coding Guide](https://github.com/CesiumGS/NextechJS/blob/master/Documentation/Contributors/CodingGuide/README.md) used for [CesiumJS](https://cesium.com/cesiumjs/).
+Pull requests are appreciated!  Please use the same [Contributor License Agreement (CLA)](https://github.com/NextechGS/NextechJS/blob/master/CONTRIBUTING.md) and [Coding Guide](https://github.com/NextechGS/NextechJS/blob/master/Documentation/Contributors/CodingGuide/README.md) used for [NextechJS](https://nextechgs.com/nextechjs/).
 
 ---
 
